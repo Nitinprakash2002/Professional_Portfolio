@@ -1,0 +1,34 @@
+function actionfun(inp)
+{
+    if(inp==1)
+    {
+        window.open('https://github.com/Nitinprakash2002/Banking-Management');
+    }
+    if(inp==2)
+    {
+        window.open('https://github.com/Nitinprakash2002/Art-Gallery-Management-System');
+    }
+    if(inp==3)
+    {
+        window.open('https://github.com/Nitinprakash2002/Weather_Frocast_App');
+    }
+    if(inp==4)
+    {
+        window.open('https://github.com/Nitinprakash2002/Performance-Prediction-Model');
+    }
+    if(inp==5)
+    {
+        window.open('https://github.com/Nitinprakash2002/Data-Mining-LA-2-');
+    }
+}
+function actfun(inp)
+{
+    if(inp==1)
+       window.open('https://www.hackerrank.com/certificates/73ae107242c3');
+    if(inp==2)
+      window.open('https://www.hackerrank.com/certificates/2e3a12c1d34a');
+    if(inp==3)
+      window.open('https://www.hackerrank.com/certificates/7642c1b46e8d');
+    if(inp==4)
+      window.open('https://www.hackerrank.com/certificates/2188077fce69')
+}
